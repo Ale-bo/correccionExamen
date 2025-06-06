@@ -94,6 +94,7 @@ public class VentanaCalificacion extends Frame implements ActionListener {
             }
         }
         public static void main(String[] args) {
-        new VentanaCalificacion();
+
+
     }
 }
